@@ -36,7 +36,7 @@ Then change the docker-compose-LocalExecutor.yml file with the one in this repo 
 docker-compose -f docker-compose-LocalExecutor.yml up -d
 ```
 
-Now you have a running Airflow container and you can access the UI at `https://localhost:8080`
+Now you have a running Airflow container and you can access the UI at `http://localhost:8080`
 
 ## Apache Kafka
 
